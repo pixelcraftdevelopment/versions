@@ -1,7 +1,5 @@
 v1.4.4
-- Added version check system with multi-version changelog support
-- Enhanced console display showing how many versions behind
-- Improved update notification formatting with color-coded output
+- Added TextUi support in config
 - System now displays all missed changelogs when behind multiple versions
 
 v1.4.3
