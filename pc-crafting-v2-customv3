@@ -1,1 +1,23 @@
-1.4.4
+v1.4.4
+- Added TextUi support in config
+- System now displays all missed changelogs when behind multiple versions
+
+v1.4.3
+- Added support for hosted models and updated model links in weaponmodelmap.lua
+- Minor fixes for qs-inventory users
+- Created new folder named Optionalmodels (Can Delete in Production)
+- Models removed from html/build folder and put in main resource folder (optional in production)
+- Total resource size reduced to under 30MB
+- Modified Folders: html, server, interface, data/weaponmodelmap.lua, client
+
+v1.4.2
+- Stability and performance improvements
+- Bug fixes and optimizations
+
+v1.4.1
+- Fixed a critical issue of all recipes not being removed from admin panel
+- Added a quantity selector and anti spam option in config for crafting
+- Added blueprint metadata support, each blueprint is unique now and shared among players
+- General performance and responsiveness update for UI (changing items)
+- Fixed an issue where all history was being displayed in repair section
+- Recommended: Fresh install excluding database, preserving your existing data folder
