@@ -1,6 +1,7 @@
 v1.4.4
 - Added TextUi support in config
 - System now displays all missed changelogs when behind multiple versions
+- Recommended : Fresh Install, but preserve your data folder
 
 v1.4.3
 - Added support for hosted models and updated model links in weaponmodelmap.lua
