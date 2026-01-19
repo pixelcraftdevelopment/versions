@@ -1,9 +1,16 @@
+v1.1.1
+- Added timeout to play button to avoid exploitation in QBOX
+
+v1.1.0
+- Put youtube music variables in config
+- Made changes to support new ESX framework
+
 v1.0.9
 - Added support for origen clothing
 - Added support for vms spawnselector
 - Major fixes for ESX
 
 v1.0.8
-️- Introduced 2 new options in config for character selection notify and timeout
-️- Improved the character falling bug before spawn
-️- Fixed ESX based renzu spawn issues
+- Introduced 2 new options in config for character selection notify and timeout
+- Improved the character falling bug before spawn
+- Fixed ESX based renzu spawn issues
