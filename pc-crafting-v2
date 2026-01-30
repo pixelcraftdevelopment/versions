@@ -1,3 +1,7 @@
+v1.4.6
+- Made changes to prevent nil errors across bridge
+- Fixed an issue of right experience not being given for selected quantity of crafting
+
 v1.4.5
 - Made changes to pc-blueprints to counter nil errors
 - Recommended : Just re-Install pc-bueprints
