@@ -1,3 +1,9 @@
+v3.0.1
+- Fixed an issue of quque item completion spam
+- Fixed an issue where all queues and history showing up in all tables
+- Fixed an issue where Items not being updated in tables in shared mode off
+- Fixed issues with the load order of files in fxmanifest and dependecies
+
 v1.4.6
 - Made changes to prevent nil errors across bridge
 - Fixed an issue of right experience not being given for selected quantity of crafting
