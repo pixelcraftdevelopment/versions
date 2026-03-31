@@ -1,3 +1,9 @@
+v3.0.2
+- Fixed issues with UI updates of Player inventory
+- Added console prints for table loading timeouts
+- Added nil guards at some missing places
+- Added  changes for single resource supporting combination of multiple versions(open ticket to claim if purchased multiple versions)
+
 v3.0.1
 - Fixed an issue of quque item completion spam
 - Fixed an issue where all queues and history showing up in all tables
