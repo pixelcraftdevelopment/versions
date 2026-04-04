@@ -1,3 +1,7 @@
+v3.0.3
+- Fixed leaks of items not availaible in inventory items
+- General performance updates
+
 v3.0.2
 - Fixed issues with UI updates of Player inventory
 - Added console prints for table loading timeouts
