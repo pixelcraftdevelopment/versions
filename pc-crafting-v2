@@ -3,6 +3,7 @@ v3.0.4
 - Reintroduced quantity selector
 - Fixed missing items spamming in console everytime UI is opened
 - Added Config.Debug to enable debugging
+- Deprecated legacy script
 
 v3.0.3
 - Fixed leaks of items not availaible in inventory items
